@@ -98,6 +98,3 @@ void chooseWinner(char player, char computer){
     }
     
 }
-//Dhrubojyoti 
-//I am your favorite
-//hi
